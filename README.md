@@ -6,5 +6,5 @@
 -  🔭 I'm currently working on automation projects.
 - 🌱 I’m currently learning best open source AI models
 - 📫 How to reach me:  
--- E-mail: [limasjg@outlook.com](mailto:limasjg@outlook.com)
--- Linkedin: [linkedin.com/limasjg](https://www.linkedin.com/in/jo%C3%A3o-guilherme-da-silva-lima-a09180ba)
+   E-mail: [limasjg@outlook.com](mailto:limasjg@outlook.com) / 
+   Linkedin: [linkedin.com/limasjg](https://www.linkedin.com/in/jo%C3%A3o-guilherme-da-silva-lima-a09180ba)
